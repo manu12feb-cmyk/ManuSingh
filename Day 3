@@ -1,0 +1,44 @@
+
+Read about Role-Based Prompting from the provided resources.
+Ask Claude a question without assigning any role.
+Save the output.
+Ask the same question using a Founder persona.
+Ask the same question using a Developer persona.
+Compare the responses.
+Install Claude Usage Counter and explore its interface.
+Create a Day3 folder in your GitHub repository.
+Create a day3.md file.
+Document your prompts, outputs, learnings, and screenshots.
+Commit and push your changes.
+Submit the GitHub commit URL.
+## Prompt Template ##
+You are an AI educator teaching complete beginners.
+
+Explain Role-Based Prompting in simple language.
+
+Include:
+* What Role-Based Prompting is
+* Why it matters when using AI tools like Claude
+* How assigning a role changes the quality of AI responses
+* One example without a role prompt
+* One example with a role prompt
+* Three practical benefits of Role-Based Prompting
+
+Also create a LinkedIn-ready image concept.
+
+Image Requirements:
+* Square LinkedIn post (1080×1080)
+* Claude-inspired brown, beige and cream colors
+* Professional and minimal design
+* Main title: 'Role-Based Prompting'
+* Add subheading 'ABTalks 60-Day Claude AI Mastery Challenge'
+* Subtitle: 'Turn Claude into Any Expert You Need'
+* Show a visual comparison:
+  Without Role Prompt → Generic Answer
+  With Role Prompt → Expert-Level Answer
+* Include persona cards:
+  Developer
+  Product Manager
+  HR Manager
+  Founder
+  Marketer
